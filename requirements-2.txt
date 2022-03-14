@@ -1,4 +1,5 @@
 pandas
 response
 requests
+bs4
 BeautifulSoup
